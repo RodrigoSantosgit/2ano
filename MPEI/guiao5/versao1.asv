@@ -1,0 +1,25 @@
+% versão 1:
+
+letras = ['a':'z' 'A':'Z'];
+fatorDeCarga = 0.8;
+m = round(1000/fatorDeCarga);
+
+contador_valores = zeros(1,m);
+contador_numeros = zeros(1,m);
+
+for i=1 : 1000
+    
+    length = randi([3 20]);
+    chave = '';
+    for j=1 : length
+        chave(j) = letras(ceil(rand()*52));
+    end
+    valor = mod(string2hash(chave), m) + 1;
+    contador_valores(valor) = contador_valores(valor) + 1;
+    
+end
+
+subplot(2,2,1)
+bar(contador_valores)
+grid on
+title("Numero de chaves (Strings) mapeadas para cada posição")
