@@ -1,0 +1,6 @@
+LoadImage i1 = "southpark.png";		// inicializar i1
+LoadImage i2 = i1; 			// inicializar i2 com a imagem 						// de i1
+i2.filter -> red;			// aplicar o filtro red a i2
+i2.histogram;				// apresentar o histograma de 						// cores de i2
+i1.details; 				// imprimir as dimensões de i1
+i2.details; 									

@@ -1,0 +1,60 @@
+//  This is a line comment
+
+/#  This is 
+    a text comment	#/ 
+
+/#
+//Exemplo de teste;
+	LoadImage img = "image.png";
+	LoadImage img1 = "southpark.png";
+	LoadImage img4 = img1;
+	//Show img4;
+	Add img3 = img1 + img;
+	//Show img;
+	img3.filter->blue;
+	//img3.rotate->90;
+	Show img3;
+	Save img->"out.png";
+
+#/
+
+//Exemplo de teste 2
+	LoadImage img = "pessoas.jpg";
+	//FaceDetect img;
+	img.filter->red;
+	//img.zoom->50;
+	//img.brightness->50;
+	//img.gamma->2;
+	
+	Show img;
+/#
+	LoadImage img1 = "southpark.png";
+	img.compare_histogram->img1;
+#/
+
+/# 
+//Exemplo de erros;
+	LoadImage img = "image.png";
+	LoadImage img1 = "southpark.png";
+	LoadImage img4 = img10;
+	//Show img7;
+	Add img3 = i + img;
+	//Show img;
+	img3.filter->azul;
+	img3.smoothing->1;
+	//im.rotate->90;
+	Show img3;
+	Save img->"out.pdng";	
+#/
+
+
+
+
+
+
+
+
+
+
+
+

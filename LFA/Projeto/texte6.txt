@@ -1,0 +1,3 @@
+LoadImage i3 ="imagem.png";
+i3.crop->10,10,10,10;				 		
+Show i3;

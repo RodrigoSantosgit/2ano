@@ -1,0 +1,6 @@
+LoadImage i1 = "southpark.png";
+i1.filter -> gray;			
+i1.rotate -> 90;				
+i1.brightness -> 0;			 
+i1.gamma -> 1;				
+Show i1;

@@ -1,0 +1,5 @@
+LoadImage i3 ="pessoas.jpg";
+FaceDetect i3; 				// deteta caras
+i3.zoom->50;				// fazer 50% de  zoom em i3;
+i3.smoothing->10;	 		// Suaviza imagem
+Show i3;	

@@ -1,0 +1,6 @@
+LoadImage i1 = "image.png";	
+LoadImage i4 = "southpark.png";
+Add i5 = i1 + i4;				// Juntar i1 com i4 e 							// guardar em i5
+i5.filter -> gray;
+Show i5;	
+Save i5 -> "output.png";			// Guardar imagem
