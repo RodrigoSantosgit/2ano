@@ -1,0 +1,24 @@
+
+Alínea 1) ----------------------------------
+
+Participante [email=pedro@coldmail.com, nome=Pedro Silva]
+Participante [email=bm1880@sapinho.pt, nome=Anabela Lima]
+
+Responsável: Participante [email=jmartin27@kmail.pt, nome=Joaquim Martins]
+Participante [email=jmartin27@kmail.pt, nome=Joaquim Martins]
+Participante [email=lopesmar@mymail.com, nome=Maria Lopes]
+
+Feira [nome=Indústria 5.0, local=Parque de Exposições de Aveiro, stands=[StandEmpresa [membros=[Participante [email=pedro@coldmail.com, nome=Pedro Silva], Participante [email=bm1880@sapinho.pt, nome=Anabela Lima]]], StandEmpresa [membros=[Participante [email=jmartin27@kmail.pt, nome=Joaquim Martins], Participante [email=lopesmar@mymail.com, nome=Maria Lopes]]], StandServicos [tipo=RESTAURANTE], StandServicos [tipo=CAFETARIA], StandOrganizacao [contato=960707070]], visitantes=[Visitante [dataHora=20181219:13:30], Visitante [dataHora=20181219:13:31], Visitante [dataHora=20181219:13:35], Visitante [dataHora=20181219:13:39], Visitante [dataHora=20181219:13:39]]]
+Emails dos responsáveis: [bmarq87756@sapinho.pt, jmartin27@kmail.pt, chef86@cookmail.pt, depois@uantes.pt, admin@coldmail.com]
+Visitantes entre as "20181219:13:31" e as "20181219:13:35": null
+[StandServicos [tipo=RESTAURANTE]]
+
+Alínea 2) ----------------------------------
+
+Feira [nome=Turismo 2019, local=Expocentro, Aveiro, stands=[StandEmpresa [membros=[]], StandEmpresa [membros=[]], StandEmpresa [membros=[]], StandServicos [tipo=CAFETARIA], StandServicos [tipo=RESTAURANTE], StandOrganizacao [contato=916652367]], visitantes=[Visitante [dataHora=20190119:16:00], Visitante [dataHora=20190119:16:00], Visitante [dataHora=20190119:16:01], Visitante [dataHora=20190119:16:01]]]
+StandOrganizacao [contato=916652367]
+StandEmpresa [membros=[]]
+StandServicos [tipo=CAFETARIA]
+StandEmpresa [membros=[]]
+StandEmpresa [membros=[]]
+StandServicos [tipo=RESTAURANTE]
